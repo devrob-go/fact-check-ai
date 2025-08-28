@@ -79,7 +79,7 @@ kubectl apply -f k8s/
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone git@github.com:devrob-go/go-chat-ai.git
    cd fact-check
    ```
 
